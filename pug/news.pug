@@ -1,0 +1,82 @@
+doctype html
+html
+	head
+		include html_title.pug
+		include meta.pug
+		link(rel="stylesheet", href="stylesheets/style.css")
+		link(rel="stylesheet", href="stylesheets/svg-sprites-dims.css")
+
+		style.
+			@media print, screen and (min-width: 64em) {
+				.contact-banner-outWrap{
+					height: 74.38vh;
+				}
+				.contact-banner .container{
+					padding: 116px 126px 0;
+				}
+			}
+
+	body
+		include ../images/all.defs.svg
+
+		- var _now = 'news'
+
+		include topmenu.pug
+
+		#barba-wrapper
+			.barba-container(data-namespace="news")
+				.contact-banner-outWrap
+					.contact-banner(style={
+						'background-image': 'url(images/news-banner.jpg)',
+					} data-parallax='{"y" : 300, "smoothness" : 0}')
+						.container
+							.title-en HUNG CHEN LIN<br>LATEST NEWS
+							.title-ch 最新消息
+							//- .content Professional socks MIT manufacturer - is committed to the development of functional socks, soft cotton sweat, cotton fiber antibacterial deodorant, Lycra's tensile function and restoring force to the movement of the best athletes, to the function of sports socks
+
+				section.newsWrap.m-width
+					article.bignews.grid-x
+						.pic.cell.large-shrink: a.no-barba(href="news_detail.html"): img(src="images/news-pic-1.jpg", alt="")
+						.container.cell.large-auto: a.no-barba(href="news_detail.html")
+							.info.flex-container.align-middle
+								.cat 最新訊息
+								.date 2017-07-08
+							.title 2017年臺灣製MIT微笑標章產品暨<br>機能性紡織品年終特賣會
+							.content 本公司參與工業局舉辦之2015年臺灣製MIT微笑標章產品暨機能性紡織品年終特賣會，獲得消費者高度肯定...
+
+					ul.newsList.m-width.grid-x.large-up-3.align-stretch
+						li.cell: a.no-barba(href="news_detail.html")
+							.grid-y
+								.pic.cell.small-order-1.large-order-1: img(src="images/news-pic-2.jpg", alt="")
+								.title.cell.small-order-3.large-order-2 2016年臺灣製MIT微笑標章產品暨<br>機能性紡織品年終特賣會
+								.content.cell.small-order-4.large-order-3 本公司參與工業局舉辦之2015年臺灣製MIT微笑標章產品暨機能性紡織品年終特賣會，獲得消費者高度肯定...
+								.info.flex-container.align-middle.cell.small-order-2.large-order-4
+									.cat 活動消息
+									.date 2017-07-08
+						li.cell: a.no-barba(href="news_detail.html")
+							.grid-y
+								.pic.cell.small-order-1.large-order-1: img(src="images/news-pic-3.jpg", alt="")
+								.title.cell.small-order-3.large-order-2 全新系列襪商品<br>陸續上市中
+								.content.cell.small-order-4.large-order-3 全新抗菌機能五趾襪 --『襪大師』通過 JIS Z 2010 乾式測試標準，菌種 AATCC 9533 ，已於2015年01年通路...
+								.info.flex-container.align-middle.cell.small-order-2.large-order-4
+									.cat 公司動態
+									.date 2016-06-18
+						li.cell: a.no-barba(href="news_detail.html")
+							.grid-y
+								.pic.cell.small-order-1.large-order-1: img(src="images/news-pic-4.jpg", alt="")
+								.title.cell.small-order-3.large-order-2 彰化縣社頭鄉<br>織襪專區擴建新廠
+								.content.cell.small-order-4.large-order-3 本公司於彰化社頭織襪專區擴建新廠，於2013年06月完成動土典禮，廠房佔地約6000平方米，預計於...
+								.info.flex-container.align-middle.cell.small-order-2.large-order-4
+									.cat 最新產品
+									.date 2013-06-06
+
+					.news-pager.flex-container.align-center-middle
+						a(href="#0"): svg.svg-news-prev-dims: use(xlink:href="#news-prev")
+						a.current(href="#0") 1
+						a(href="#0") 2
+						a(href="#0") 3
+						a(href="#0"): svg.svg-news-next-dims: use(xlink:href="#news-next")
+
+				include footer.pug
+
+	include script.pug

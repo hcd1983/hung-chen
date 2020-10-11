@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.87" height="23.87" viewBox="0 0 23.87 23.87">
+  <title>mail</title>
+  <g id="圖層_2" data-name="圖層 2">
+    <g id="圖層_1-2" data-name="圖層 1">
+      <g>
+        <circle cx="11.93" cy="11.93" r="11.43" fill="none" stroke="#0080ef" stroke-miterlimit="10"/>
+        <g>
+          <rect x="4.58" y="7.35" width="14" height="10" rx="1.28" ry="1.28" fill="none" stroke="#0080ef" stroke-miterlimit="10"/>
+          <path d="M18.57,7.43,12.9,13.09a1.28,1.28,0,0,1-1.81,0L5.43,7.43" fill="none" stroke="#0080ef" stroke-miterlimit="10" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

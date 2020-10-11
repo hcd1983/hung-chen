@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.87" height="23.86" viewBox="0 0 23.87 23.86">
+  <title>fax</title>
+  <g id="圖層_2" data-name="圖層 2">
+    <g id="圖層_1-2" data-name="圖層 1">
+      <g>
+        <circle cx="11.93" cy="11.93" r="11.43" fill="none" stroke="#0080ef" stroke-miterlimit="10"/>
+        <g>
+          <rect x="7.25" y="4.89" width="9.19" height="3.55" fill="none" stroke="#0080ef" stroke-linejoin="round"/>
+          <rect x="7.34" y="11.77" width="9.19" height="7.21" fill="none" stroke="#0080ef" stroke-linejoin="round"/>
+          <polyline points="16.43 14.45 18.52 14.45 18.52 8.44 5.35 8.44 5.35 14.45 7.25 14.45" fill="none" stroke="#0080ef" stroke-linejoin="round" fill-rule="evenodd"/>
+          <line x1="9.43" y1="13.72" x2="14.49" y2="13.72" fill="none" stroke="#0080ef" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="9.43" y1="15.37" x2="14.49" y2="15.37" fill="none" stroke="#0080ef" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="9.43" y1="17.03" x2="14.49" y2="17.03" fill="none" stroke="#0080ef" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

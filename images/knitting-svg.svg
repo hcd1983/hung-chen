@@ -1,0 +1,576 @@
+<svg id="knitting-svg" width="752.08" height="624.92" viewBox="0 0 752.08 624.92">
+    <defs>
+        <clipPath id="clip-path">
+            <path d="M296.87,152.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S244,78.2,244,71.52h-.09l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,296.87,152.74Z" fill="none" />
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path d="M543.87,152.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S491,78.2,491,71.52h-.08l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,543.87,152.74Z" fill="none" />
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path d="M701.87,297.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S649,223.2,649,216.52h-.09l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,701.87,297.74Z" fill="none" />
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path d="M574.87,455.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S522,381.2,522,374.52h-.09l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,574.87,455.74Z" fill="none" />
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path d="M265.87,455.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S213,381.2,213,374.52h-.09l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,265.87,455.74Z" fill="none" />
+        </clipPath>
+        <clipPath id="clip-path-6">
+            <path d="M146.87,297.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S94,223.2,94,216.52h-.08l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,146.87,297.74Z" fill="none" />
+        </clipPath>
+    </defs>
+    <g>
+        <g id="line-group">
+            <path d="M287.93,167.47l68.27,88.6c5.2,6.79,10,13.2,13.64,21,4.2,8.92,8.07,22.64,8.07,41.06v298.8" fill="none" stroke="#00bcea" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+            <path d="M494.06,166.47l-77.9,92.59c-5.54,6.59-10.47,13-13.92,21-4.65,10.76-9.32,27.53-9.33,51.5,0,34.13,0,285.13,0,285.13" fill="none" stroke="#f3aa39" stroke-miterlimit="10" stroke-width="2" />
+            <path d="M141.06,271.49l210.08,47.6c9.74,2.21,13.34,8,13.34,17.83,0,16-.07,286.2-.07,286.2" fill="none" stroke="#ea5e6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+            <path d="M642.56,272.71l-220.24,46.1c-7.68,1.61-18.42,6-18.42,15.44V623.92" fill="none" stroke="#9c72d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+            <path d="M258.82,409.21,362,350.12s7.88-6.35,7.88,2.65V618.92" fill="none" stroke="#ffdb68" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+            <path d="M519.32,409,405.67,345.5s-8.76-5.39-8.76,6.21V618.92" fill="none" stroke="#08bb90" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+        </g>
+        <g id="screw-group">
+            <g>
+                <circle cx="416.01" cy="284.58" r="6.87" fill="#cbcbcb" />
+                <path d="M416,288.84a4.26,4.26,0,1,1,0-8.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.96" />
+            </g>
+            <g>
+                <circle cx="423.15" cy="336.86" r="7.15" transform="translate(-114.26 397.87) rotate(-45)" fill="#cbcbcb" />
+                <path d="M426.28,340a4.43,4.43,0,0,1-6.26-6.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g>
+                <circle cx="344.47" cy="334.58" r="6.87" transform="translate(-135.69 341.59) rotate(-45)" fill="#cbcbcb" />
+                <path d="M347.48,331.57a4.26,4.26,0,1,1-6,6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.96" />
+            </g>
+            <g>
+                <circle cx="352.93" cy="284.58" r="6.87" fill="#cbcbcb" />
+                <path d="M352.93,280.32a4.26,4.26,0,0,1,0,8.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.96" />
+            </g>
+            <g>
+                <circle cx="420.35" cy="377.66" r="7.15" fill="#cbcbcb" />
+                <path d="M424.77,377.66a4.43,4.43,0,0,1-8.86,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <g>
+                <circle cx="348.75" cy="377.66" r="7.15" fill="#cbcbcb" />
+                <path d="M353.18,377.66a4.43,4.43,0,1,1-8.86,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+        </g>
+        <g id="yarn-group">
+            <g id="blue-yarn">
+                <g>
+                    <g>
+                        <ellipse cx="265.93" cy="175.49" rx="11.98" ry="6.61" fill="#e6e6e6" />
+                        <polygon points="275.91 158.52 255.91 158.52 253.91 175.52 277.91 175.52 275.91 158.52" fill="#e6e6e6" />
+                    </g>
+                    <path id="bot-color" d="M296.87,152.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S244,78.2,244,71.52h-.09l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,296.87,152.74Z" fill="#00bcea" />
+                    <path id="top-color" d="M265.95,59.35c-12.13,0-22,5.43-22,12.13,0,0,0,0,0,0,0,6.68,9.85,12.08,22,12.08s21.92-5.41,22-12.08c0,0,0,0,0,0C287.91,64.78,278.07,59.35,265.95,59.35Z" fill="#00caea" stroke="#fff" stroke-miterlimit="10" />
+                    <g>
+                        <g>
+                            <ellipse cx="265.93" cy="65.49" rx="11.65" ry="6.43" fill="#fff" />
+                            <polygon points="277.47 64.62 254.39 64.6 256.02 58.67 275.91 59.06 277.47 64.62" fill="#fff" />
+                        </g>
+                        <g>
+                            <path d="M274.33,62.49a4,4,0,0,0,1.61-3c0-3.05-4.48-5.53-10-5.53s-10,2.48-10,5.53a4,4,0,0,0,1.61,3C259.3,61,262.4,60,265.93,60S272.55,61,274.33,62.49Z" fill="#ccc" />
+                            <path d="M274.33,62.49C272.55,61,269.45,60,265.93,60s-6.62,1-8.41,2.53C259.3,64,262.4,65,265.93,65S272.55,64,274.33,62.49Z" fill="gray" />
+                        </g>
+                    </g>
+                </g>
+                <g clip-path="url(#clip-path)">
+                    <g>
+                        <g>
+                            <path d="M311.59,139.94A89.9,89.9,0,0,1,156,116.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M300.39,143.21A89.87,89.87,0,0,1,170,142" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M290.09,144.2a89.88,89.88,0,0,1-116.45,1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M280.83,143.55a89.89,89.89,0,0,1-110.51-1.86" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M272.62,141.71a89.91,89.91,0,0,1-104.26-2.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M265.15,139.14a89.93,89.93,0,0,1-98.69-2.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M259,135.62a90,90,0,0,1-94.37-1.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M253.27,131.85a90,90,0,0,1-90.33-.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M248.43,127.55a90,90,0,0,1-87,.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M244.32,122.83a90,90,0,0,1-84.55,2.44" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M240.46,118a90,90,0,0,1-82.15,4.25" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M237.87,112.33a90.06,90.06,0,0,1-80.23,7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M225.8,112a90.16,90.16,0,0,1-70.07,3.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M216.16,109.87a90.27,90.27,0,0,1-61.57,2.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M208.33,106.69a89.69,89.69,0,0,1-31,5.5,90,90,0,0,1-22.89-2.94" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M201.86,102.91a89.76,89.76,0,0,1-29,4.79,90.15,90.15,0,0,1-20.16-2.27" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M196.44,98.73a89.78,89.78,0,0,1-28.1,4.48,90.39,90.39,0,0,1-16.45-1.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M191.87,94.27a89.82,89.82,0,0,1-28,4.45,90.66,90.66,0,0,1-12.59-.87" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M187.6,89.72a89.79,89.79,0,0,1-28.23,4.52q-4.34,0-8.57-.4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M183.44,85.12a89.77,89.77,0,0,1-28.55,4.63q-2.2,0-4.38-.11" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M276.45,20.9a56,56,0,0,1-83.64,74.37" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M271.75,16.26A56,56,0,0,1,190.57,93" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M267.52,12.24A56,56,0,0,1,189,90.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M264.63,10.14A56,56,0,0,1,186.93,88" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M261.56,8.2a56,56,0,0,1-76.64,76.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M258.91,7.14a56,56,0,0,1-75.6,74.78" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M255.57,5.15a56,56,0,0,1-73.7,73.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M252.34,3.86a56,56,0,0,1-71.76,71.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M248.94,2.75a56,56,0,0,1-69.47,69.47" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M244.8,1.71A56.05,56.05,0,0,1,190.14,70a56.23,56.23,0,0,1-11.56-1.19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M240.48,1a56,56,0,0,1-55.36,64.49,56.51,56.51,0,0,1-7.24-.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M235.93.59q.17,2.18.17,4.4a56,56,0,0,1-56,56q-1.35,0-2.69-.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M231.07.5a56,56,0,0,1-53.83,56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M325.93,131.6a58.66,58.66,0,0,1-88.41-19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M326.92,129.86a58.66,58.66,0,0,1-83.81-18.2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M329.68,126.72a58.66,58.66,0,0,1-81-16.36" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M332.68,123.4A58.66,58.66,0,0,1,254,108.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M335.14,120.38a58.67,58.67,0,0,1-75.75-13.88" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M337.4,117.42a58.67,58.67,0,0,1-73.47-14.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M339.07,114.68a58.68,58.68,0,0,1-70.67-14.56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M340.35,112a58.7,58.7,0,0,1-67.84-15.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M341.74,109.11a58.71,58.71,0,0,1-65.47-16.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M342.83,106.19a58.72,58.72,0,0,1-63.16-18.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M343.75,103.16a58.74,58.74,0,0,1-61.08-20.33" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M344.58,100a58.74,58.74,0,0,1-59.27-22.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M344.89,97.16a59,59,0,0,1-8.93.68,58.58,58.58,0,0,1-48.81-26.13" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M345,94.2q-2.82.27-5.72.28a58.62,58.62,0,0,1-50.76-29.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M345.65,91q-1.47.07-3,.07a58.65,58.65,0,0,1-53.45-34.49" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M346.06,87.75A58.64,58.64,0,0,1,287.43,30" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M346.4,84.3a58.65,58.65,0,0,1-55.56-56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M346.4,80.67A58.67,58.67,0,0,1,294.52,29" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M346.58,76.87A58.69,58.69,0,0,1,298.37,29" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M345.19,72.52a58.74,58.74,0,0,1-42.47-42.24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M343.35,67.59a58.8,58.8,0,0,1-36-36.38" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M341.64,62.16A58.87,58.87,0,0,1,313.2,33.94" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M338.89,55.5a59,59,0,0,1-19.24-19.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="orange-yarn">
+                <g>
+                    <g>
+                        <ellipse cx="512.93" cy="175.49" rx="11.98" ry="6.61" fill="#e6e6e6" />
+                        <polygon points="522.91 158.52 502.91 158.52 500.91 175.52 524.91 175.52 522.91 158.52" fill="#e6e6e6" />
+                    </g>
+                    <path id="bot-color-2" data-name="bot-color" d="M543.87,152.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S491,78.2,491,71.52h-.08l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,543.87,152.74Z" fill="#f3aa39" />
+                    <path id="top-color-2" data-name="top-color" d="M512.95,59.35c-12.13,0-22,5.43-22,12.13,0,0,0,0,0,0,0,6.68,9.85,12.08,22,12.08s21.92-5.41,22-12.08c0,0,0,0,0,0C534.91,64.78,525.07,59.35,512.95,59.35Z" fill="#f3aa59" stroke="#fff" stroke-miterlimit="10" />
+                    <g>
+                        <g>
+                            <ellipse cx="512.93" cy="65.49" rx="11.65" ry="6.43" fill="#fff" />
+                            <polygon points="524.47 64.62 501.39 64.6 503.02 58.67 522.91 59.06 524.47 64.62" fill="#fff" />
+                        </g>
+                        <g>
+                            <path d="M521.34,62.49a4,4,0,0,0,1.61-3c0-3.05-4.48-5.53-10-5.53s-10,2.48-10,5.53a4,4,0,0,0,1.61,3C506.3,61,509.4,60,512.93,60S519.55,61,521.34,62.49Z" fill="#ccc" />
+                            <path d="M521.34,62.49C519.55,61,516.45,60,512.93,60s-6.62,1-8.41,2.53C506.3,64,509.4,65,512.93,65S519.55,64,521.34,62.49Z" fill="gray" />
+                        </g>
+                    </g>
+                </g>
+                <g clip-path="url(#clip-path-2)">
+                    <g>
+                        <g>
+                            <path d="M558.59,139.94A89.9,89.9,0,0,1,403,116.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M547.39,143.21A89.87,89.87,0,0,1,417,142" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M537.09,144.2a89.88,89.88,0,0,1-116.45,1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M527.83,143.55a89.89,89.89,0,0,1-110.51-1.86" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M519.62,141.71a89.91,89.91,0,0,1-104.26-2.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M512.15,139.14a89.93,89.93,0,0,1-98.69-2.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M506,135.62a90,90,0,0,1-94.37-1.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M500.27,131.85a90,90,0,0,1-90.33-.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M495.43,127.55a90,90,0,0,1-87,.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M491.32,122.83a90,90,0,0,1-84.55,2.44" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M487.46,118a90,90,0,0,1-82.15,4.25" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M484.87,112.33a90.06,90.06,0,0,1-80.23,7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M472.8,112a90.16,90.16,0,0,1-70.07,3.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M463.16,109.87a90.27,90.27,0,0,1-61.57,2.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M455.33,106.69a89.69,89.69,0,0,1-31,5.5,90,90,0,0,1-22.89-2.94" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M448.86,102.91a89.76,89.76,0,0,1-29,4.79,90.15,90.15,0,0,1-20.16-2.27" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M443.44,98.73a89.78,89.78,0,0,1-28.1,4.48,90.39,90.39,0,0,1-16.45-1.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M438.87,94.27a89.82,89.82,0,0,1-28,4.45,90.66,90.66,0,0,1-12.59-.87" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M434.6,89.72a89.79,89.79,0,0,1-28.23,4.52q-4.34,0-8.57-.4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M430.44,85.12a89.77,89.77,0,0,1-28.55,4.63q-2.2,0-4.38-.11" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M523.45,20.9a56,56,0,0,1-83.64,74.37" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M518.75,16.26A56,56,0,0,1,437.57,93" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M514.52,12.24A56,56,0,0,1,436,90.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M511.63,10.14A56,56,0,0,1,433.93,88" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M508.56,8.2a56,56,0,0,1-76.64,76.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M505.91,7.14a56,56,0,0,1-75.6,74.78" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M502.57,5.15a56,56,0,0,1-73.7,73.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M499.34,3.86a56,56,0,0,1-71.76,71.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M495.94,2.75a56,56,0,0,1-69.47,69.47" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M491.8,1.71A56.05,56.05,0,0,1,437.14,70a56.23,56.23,0,0,1-11.56-1.19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M487.48,1a56,56,0,0,1-55.36,64.49,56.51,56.51,0,0,1-7.24-.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M482.93.59q.17,2.18.17,4.4a56,56,0,0,1-56,56q-1.35,0-2.69-.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M478.07.5a56,56,0,0,1-53.83,56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M572.93,131.6a58.66,58.66,0,0,1-88.41-19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M573.92,129.86a58.66,58.66,0,0,1-83.81-18.2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M576.68,126.72a58.66,58.66,0,0,1-81-16.36" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M579.68,123.4A58.66,58.66,0,0,1,501,108.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M582.14,120.38a58.67,58.67,0,0,1-75.75-13.88" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M584.4,117.42a58.67,58.67,0,0,1-73.47-14.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M586.07,114.68a58.68,58.68,0,0,1-70.67-14.56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M587.35,112a58.7,58.7,0,0,1-67.84-15.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M588.74,109.11a58.71,58.71,0,0,1-65.47-16.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M589.83,106.19a58.72,58.72,0,0,1-63.16-18.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M590.75,103.16a58.74,58.74,0,0,1-61.08-20.33" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M591.58,100a58.74,58.74,0,0,1-59.27-22.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M591.89,97.16a59,59,0,0,1-8.93.68,58.58,58.58,0,0,1-48.81-26.13" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M592,94.2q-2.82.27-5.72.28a58.62,58.62,0,0,1-50.76-29.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M592.65,91q-1.47.07-3,.07a58.65,58.65,0,0,1-53.45-34.49" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M593.06,87.75A58.64,58.64,0,0,1,534.43,30" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M593.4,84.3a58.65,58.65,0,0,1-55.56-56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M593.4,80.67A58.67,58.67,0,0,1,541.52,29" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M593.58,76.87A58.69,58.69,0,0,1,545.37,29" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M592.19,72.52a58.74,58.74,0,0,1-42.47-42.24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M590.35,67.59a58.8,58.8,0,0,1-36-36.38" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M588.64,62.16A58.87,58.87,0,0,1,560.2,33.94" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M585.89,55.5a59,59,0,0,1-19.24-19.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="purple-yarn">
+                <g>
+                    <g>
+                        <ellipse cx="670.93" cy="320.49" rx="11.98" ry="6.61" fill="#e6e6e6" />
+                        <polygon points="680.91 303.52 660.91 303.52 658.91 320.52 682.91 320.52 680.91 303.52" fill="#e6e6e6" />
+                    </g>
+                    <path id="bot-color-3" data-name="bot-color" d="M701.87,297.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S649,223.2,649,216.52h-.09l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,701.87,297.74Z" fill="#9c72d9" />
+                    <path id="top-color-3" data-name="top-color" d="M670.95,204.35c-12.13,0-22,5.43-22,12.13,0,0,0,0,0,0,0,6.68,9.85,12.08,22,12.08s21.92-5.41,22-12.08c0,0,0,0,0,0C692.91,209.78,683.07,204.35,670.95,204.35Z" fill="#9c8bd9" stroke="#fff" stroke-miterlimit="10" />
+                    <g>
+                        <g>
+                            <ellipse cx="670.93" cy="210.49" rx="11.65" ry="6.43" fill="#fff" />
+                            <polygon points="682.47 209.62 659.39 209.6 661.02 203.67 680.91 204.06 682.47 209.62" fill="#fff" />
+                        </g>
+                        <g>
+                            <path d="M679.34,207.49a4,4,0,0,0,1.61-3c0-3.05-4.48-5.53-10-5.53s-10,2.48-10,5.53a4,4,0,0,0,1.61,3c1.78-1.52,4.88-2.53,8.41-2.53S677.55,206,679.34,207.49Z" fill="#ccc" />
+                            <path d="M679.34,207.49c-1.78-1.52-4.88-2.53-8.41-2.53s-6.62,1-8.41,2.53c1.78,1.52,4.88,2.53,8.41,2.53S677.55,209,679.34,207.49Z" fill="gray" />
+                        </g>
+                    </g>
+                </g>
+                <g clip-path="url(#clip-path-3)">
+                    <g>
+                        <g>
+                            <path d="M716.59,284.94A89.9,89.9,0,0,1,561,261.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M705.39,288.21A89.87,89.87,0,0,1,575,287" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M695.09,289.2a89.88,89.88,0,0,1-116.45,1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M685.83,288.55a89.89,89.89,0,0,1-110.51-1.86" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M677.62,286.71a89.91,89.91,0,0,1-104.26-2.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M670.15,284.14a89.93,89.93,0,0,1-98.69-2.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M664,280.62a90,90,0,0,1-94.37-1.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M658.27,276.85a90,90,0,0,1-90.33-.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M653.43,272.55a90,90,0,0,1-87,.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M649.32,267.83a90,90,0,0,1-84.55,2.44" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M645.46,263a90,90,0,0,1-82.15,4.25" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M642.87,257.33a90.06,90.06,0,0,1-80.23,7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M630.8,257a90.16,90.16,0,0,1-70.07,3.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M621.16,254.87a90.27,90.27,0,0,1-61.57,2.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M613.33,251.69a90.38,90.38,0,0,1-53.91,2.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M606.86,247.91a90.46,90.46,0,0,1-49.19,2.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M601.44,243.73a90.54,90.54,0,0,1-44.54,3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M596.87,239.27a90.56,90.56,0,0,1-40.6,3.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M592.6,234.72a89.79,89.79,0,0,1-28.23,4.52q-4.34,0-8.57-.4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M588.44,230.12a89.77,89.77,0,0,1-28.55,4.63q-2.2,0-4.38-.1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M681.45,165.9a56,56,0,0,1-83.64,74.37" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M676.75,161.26A56,56,0,0,1,595.57,238" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M672.52,157.24A56,56,0,0,1,594,235.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M669.63,155.14A56,56,0,0,1,591.93,233" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M666.56,153.2a56,56,0,0,1-76.64,76.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M663.91,152.14a56,56,0,0,1-75.6,74.78" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M660.57,150.15a56,56,0,0,1-73.7,73.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M657.34,148.86a56,56,0,0,1-71.76,71.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M653.94,147.75a56,56,0,0,1-69.47,69.47" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M649.8,146.71a56,56,0,0,1-66.22,67.05" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M645.48,146a56,56,0,0,1-62.6,64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M640.93,145.59q.17,2.18.17,4.4a56,56,0,0,1-56,56q-1.35,0-2.69-.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M636.07,145.5a56,56,0,0,1-53.83,56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M730.93,276.6a58.66,58.66,0,0,1-88.41-19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M731.92,274.86a58.66,58.66,0,0,1-83.81-18.2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M734.68,271.72a58.66,58.66,0,0,1-81-16.36" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M737.68,268.4A58.66,58.66,0,0,1,659,253.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M740.14,265.38a58.67,58.67,0,0,1-75.75-13.88" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M742.4,262.42a58.67,58.67,0,0,1-73.47-14.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M744.07,259.68a58.68,58.68,0,0,1-70.67-14.56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M745.35,257a58.7,58.7,0,0,1-67.84-15.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M746.74,254.11a58.71,58.71,0,0,1-65.47-16.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M747.83,251.19a58.72,58.72,0,0,1-63.16-18.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M748.75,248.16a58.74,58.74,0,0,1-61.08-20.33" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M749.58,245a58.74,58.74,0,0,1-59.27-22.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M749.89,242.16a58.73,58.73,0,0,1-57.74-25.45" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M750,239.2q-2.82.27-5.72.28a58.62,58.62,0,0,1-50.76-29.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M750.65,236q-1.47.07-3,.07a58.65,58.65,0,0,1-53.45-34.49" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M751.06,232.75A58.64,58.64,0,0,1,692.43,175" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M751.4,229.3a58.65,58.65,0,0,1-55.56-56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M751.4,225.67A58.67,58.67,0,0,1,699.52,174" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M751.58,221.87A58.69,58.69,0,0,1,703.37,174" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M750.19,217.52a58.74,58.74,0,0,1-42.47-42.24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M748.35,212.59a58.8,58.8,0,0,1-36-36.38" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M746.64,207.16a58.87,58.87,0,0,1-28.44-28.22" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M743.89,200.5a59,59,0,0,1-19.24-19.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="green-yarn">
+                <g>
+                    <g>
+                        <ellipse cx="543.93" cy="478.49" rx="11.98" ry="6.61" fill="#e6e6e6" />
+                        <polygon points="553.91 461.52 533.91 461.52 531.91 478.52 555.91 478.52 553.91 461.52" fill="#e6e6e6" />
+                    </g>
+                    <path id="bot-color-4" data-name="bot-color" d="M574.87,455.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S522,381.2,522,374.52h-.09l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,574.87,455.74Z" fill="#08bb90" />
+                    <path id="top-color-4" data-name="top-color" d="M543.95,362.35c-12.13,0-22,5.43-22,12.13,0,0,0,0,0,0,0,6.68,9.85,12.08,22,12.08s21.92-5.41,22-12.08c0,0,0,0,0,0C565.91,367.78,556.07,362.35,543.95,362.35Z" fill="#08ce90" stroke="#fff" stroke-miterlimit="10" />
+                    <g>
+                        <g>
+                            <ellipse cx="543.93" cy="368.49" rx="11.65" ry="6.43" fill="#fff" />
+                            <polygon points="555.47 367.62 532.39 367.6 534.02 361.67 553.91 362.06 555.47 367.62" fill="#fff" />
+                        </g>
+                        <g>
+                            <path d="M552.34,365.49a4,4,0,0,0,1.61-3c0-3.05-4.48-5.53-10-5.53s-10,2.48-10,5.53a4,4,0,0,0,1.61,3c1.78-1.52,4.88-2.53,8.41-2.53S550.55,364,552.34,365.49Z" fill="#ccc" />
+                            <path d="M552.34,365.49c-1.78-1.52-4.88-2.53-8.41-2.53s-6.62,1-8.41,2.53c1.78,1.52,4.88,2.53,8.41,2.53S550.55,367,552.34,365.49Z" fill="gray" />
+                        </g>
+                    </g>
+                </g>
+                <g clip-path="url(#clip-path-4)">
+                    <g>
+                        <g>
+                            <path d="M589.59,442.94A89.9,89.9,0,0,1,434,419.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M578.39,446.21A89.87,89.87,0,0,1,448,445" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M568.09,447.2a89.88,89.88,0,0,1-116.45,1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M558.83,446.55a89.89,89.89,0,0,1-110.51-1.86" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M550.62,444.71a89.91,89.91,0,0,1-104.26-2.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M543.15,442.14a89.93,89.93,0,0,1-98.69-2.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M537,438.62a90,90,0,0,1-94.37-1.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M531.27,434.85a90,90,0,0,1-90.33-.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M526.43,430.55a90,90,0,0,1-87,.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M522.32,425.83a90,90,0,0,1-84.55,2.44" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M518.46,421a90,90,0,0,1-82.15,4.25" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M515.87,415.33a90.06,90.06,0,0,1-80.23,7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M503.8,415a90.16,90.16,0,0,1-70.07,3.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M494.16,412.87a90.27,90.27,0,0,1-61.57,2.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M486.33,409.69a90.38,90.38,0,0,1-53.91,2.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M479.86,405.91a90.46,90.46,0,0,1-49.19,2.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M474.44,401.73a90.54,90.54,0,0,1-44.54,3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M469.87,397.27a90.56,90.56,0,0,1-40.6,3.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M465.6,392.72a89.79,89.79,0,0,1-28.23,4.52q-4.34,0-8.57-.4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M461.44,388.12a89.77,89.77,0,0,1-28.55,4.63q-2.2,0-4.38-.1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M554.45,323.9a56,56,0,0,1-83.64,74.37" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M549.75,319.26A56,56,0,0,1,468.57,396" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M545.52,315.24A56,56,0,0,1,467,393.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M542.63,313.14A56,56,0,0,1,464.93,391" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M539.56,311.2a56,56,0,0,1-76.64,76.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M536.91,310.14a56,56,0,0,1-75.6,74.78" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M533.57,308.15a56,56,0,0,1-73.7,73.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M530.34,306.86a56,56,0,0,1-71.76,71.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M526.94,305.75a56,56,0,0,1-69.47,69.47" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M522.8,304.71a56,56,0,0,1-66.22,67.05" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M518.48,304a56,56,0,0,1-62.6,64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M513.93,303.59q.17,2.18.17,4.4a56,56,0,0,1-56,56q-1.35,0-2.69-.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M509.07,303.5a56,56,0,0,1-53.83,56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M603.93,434.6a58.66,58.66,0,0,1-88.41-19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M604.92,432.86a58.66,58.66,0,0,1-83.81-18.2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M607.68,429.72a58.66,58.66,0,0,1-81-16.36" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M610.68,426.4A58.66,58.66,0,0,1,532,411.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M613.14,423.38a58.67,58.67,0,0,1-75.75-13.88" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M615.4,420.42a58.67,58.67,0,0,1-73.47-14.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M617.07,417.68a58.68,58.68,0,0,1-70.67-14.56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M618.35,415a58.7,58.7,0,0,1-67.84-15.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M619.74,412.11a58.71,58.71,0,0,1-65.47-16.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M620.83,409.19a58.72,58.72,0,0,1-63.16-18.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M621.75,406.16a58.74,58.74,0,0,1-61.08-20.33" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M622.58,403a58.74,58.74,0,0,1-59.27-22.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M622.89,400.16a58.73,58.73,0,0,1-57.74-25.45" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M623,397.2q-2.82.27-5.72.28a58.62,58.62,0,0,1-50.76-29.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M623.65,394q-1.47.07-3,.07a58.65,58.65,0,0,1-53.45-34.49" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M624.06,390.75A58.64,58.64,0,0,1,565.43,333" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M624.4,387.3a58.65,58.65,0,0,1-55.56-56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M624.4,383.67A58.67,58.67,0,0,1,572.52,332" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M624.58,379.87A58.69,58.69,0,0,1,576.37,332" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M623.19,375.52a58.74,58.74,0,0,1-42.47-42.24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M621.35,370.59a58.8,58.8,0,0,1-36-36.38" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M619.64,365.16a58.87,58.87,0,0,1-28.44-28.22" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M616.89,358.5a59,59,0,0,1-19.24-19.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="yellow-yarn">
+                <g>
+                    <g>
+                        <ellipse cx="234.93" cy="478.49" rx="11.98" ry="6.61" fill="#e6e6e6" />
+                        <polygon points="244.91 461.52 224.91 461.52 222.91 478.52 246.91 478.52 244.91 461.52" fill="#e6e6e6" />
+                    </g>
+                    <path id="bot-color-5" data-name="bot-color" d="M265.87,455.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S213,381.2,213,374.52h-.09l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,265.87,455.74Z" fill="#ffdb68" />
+                    <path id="top-color-5" data-name="top-color" d="M234.95,362.35c-12.13,0-22,5.43-22,12.13,0,0,0,0,0,0,0,6.68,9.85,12.08,22,12.08s21.92-5.41,22-12.08c0,0,0,0,0,0C256.91,367.78,247.07,362.35,234.95,362.35Z" fill="#ffdb7e" stroke="#fff" stroke-miterlimit="10" />
+                    <g>
+                        <g>
+                            <ellipse cx="234.93" cy="368.49" rx="11.65" ry="6.43" fill="#fff" />
+                            <polygon points="246.47 367.62 223.39 367.6 225.02 361.67 244.91 362.06 246.47 367.62" fill="#fff" />
+                        </g>
+                        <g>
+                            <path d="M243.34,365.49a4,4,0,0,0,1.61-3c0-3.05-4.48-5.53-10-5.53s-10,2.48-10,5.53a4,4,0,0,0,1.61,3c1.78-1.52,4.88-2.53,8.41-2.53S241.55,364,243.34,365.49Z" fill="#ccc" />
+                            <path d="M243.34,365.49c-1.78-1.52-4.88-2.53-8.41-2.53s-6.62,1-8.41,2.53c1.78,1.52,4.88,2.53,8.41,2.53S241.55,367,243.34,365.49Z" fill="gray" />
+                        </g>
+                    </g>
+                </g>
+                <g clip-path="url(#clip-path-5)">
+                    <g>
+                        <g>
+                            <path d="M280.59,442.94A89.9,89.9,0,0,1,125,419.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M269.39,446.21A89.87,89.87,0,0,1,139,445" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M259.09,447.2a89.88,89.88,0,0,1-116.45,1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M249.83,446.55a89.89,89.89,0,0,1-110.51-1.86" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M241.62,444.71a89.91,89.91,0,0,1-104.26-2.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M234.15,442.14a89.93,89.93,0,0,1-98.69-2.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M228,438.62a90,90,0,0,1-94.37-1.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M222.27,434.85a90,90,0,0,1-90.33-.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M217.43,430.55a90,90,0,0,1-87,.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M213.32,425.83a90,90,0,0,1-84.55,2.44" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M209.46,421a90,90,0,0,1-82.15,4.25" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M206.87,415.33a90.06,90.06,0,0,1-80.23,7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M194.8,415a90.16,90.16,0,0,1-70.07,3.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M185.16,412.87a90.27,90.27,0,0,1-61.57,2.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M177.33,409.69a90.38,90.38,0,0,1-53.91,2.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M170.86,405.91a90.46,90.46,0,0,1-49.19,2.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M165.44,401.73a90.54,90.54,0,0,1-44.54,3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M160.87,397.27a90.56,90.56,0,0,1-40.6,3.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M156.6,392.72a89.79,89.79,0,0,1-28.23,4.52q-4.34,0-8.57-.4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M152.44,388.12a89.77,89.77,0,0,1-28.55,4.63q-2.2,0-4.38-.1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M245.45,323.9a56,56,0,0,1-83.64,74.37" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M240.75,319.26A56,56,0,0,1,159.57,396" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M236.52,315.24A56,56,0,0,1,158,393.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M233.63,313.14A56,56,0,0,1,155.93,391" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M230.56,311.2a56,56,0,0,1-76.64,76.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M227.91,310.14a56,56,0,0,1-75.6,74.78" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M224.57,308.15a56,56,0,0,1-73.7,73.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M221.34,306.86a56,56,0,0,1-71.76,71.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M217.94,305.75a56,56,0,0,1-69.47,69.47" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M213.8,304.71a56,56,0,0,1-66.22,67.05" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M209.48,304a56,56,0,0,1-62.6,64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M204.93,303.59q.17,2.18.17,4.4a56,56,0,0,1-56,56q-1.35,0-2.69-.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M200.07,303.5a56,56,0,0,1-53.83,56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M294.93,434.6a58.66,58.66,0,0,1-88.41-19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M295.92,432.86a58.66,58.66,0,0,1-83.81-18.2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M298.68,429.72a58.66,58.66,0,0,1-81-16.36" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M301.68,426.4A58.66,58.66,0,0,1,223,411.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M304.14,423.38a58.67,58.67,0,0,1-75.75-13.88" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M306.4,420.42a58.67,58.67,0,0,1-73.47-14.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M308.07,417.68a58.68,58.68,0,0,1-70.67-14.56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M309.35,415a58.7,58.7,0,0,1-67.84-15.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M310.74,412.11a58.71,58.71,0,0,1-65.47-16.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M311.83,409.19a58.72,58.72,0,0,1-63.16-18.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M312.75,406.16a58.74,58.74,0,0,1-61.08-20.33" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M313.58,403a58.74,58.74,0,0,1-59.27-22.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M313.89,400.16a58.73,58.73,0,0,1-57.74-25.45" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M314,397.2q-2.82.27-5.72.28a58.62,58.62,0,0,1-50.76-29.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M314.65,394q-1.47.07-3,.07a58.65,58.65,0,0,1-53.45-34.49" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M315.06,390.75A58.64,58.64,0,0,1,256.43,333" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M315.4,387.3a58.65,58.65,0,0,1-55.56-56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M315.4,383.67A58.67,58.67,0,0,1,263.52,332" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M315.58,379.87A58.69,58.69,0,0,1,267.37,332" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M314.19,375.52a58.74,58.74,0,0,1-42.47-42.24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M312.35,370.59a58.8,58.8,0,0,1-36-36.38" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M310.64,365.16a58.87,58.87,0,0,1-28.44-28.22" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M307.89,358.5a59,59,0,0,1-19.24-19.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="red-yarn">
+                <g>
+                    <g>
+                        <ellipse cx="115.93" cy="320.49" rx="11.98" ry="6.61" fill="#e6e6e6" />
+                        <polygon points="125.91 303.52 105.91 303.52 103.91 320.52 127.91 320.52 125.91 303.52" fill="#e6e6e6" />
+                    </g>
+                    <path id="bot-color-6" data-name="bot-color" d="M146.87,297.74l-9-81.22h0c0,6.68-9.85,12.08-22,12.08S94,223.2,94,216.52h-.08l-9,81.58a9.82,9.82,0,0,0-.3,2.38c0,9.55,14,17.29,31.32,17.29s31.32-7.74,31.32-17.29A9.85,9.85,0,0,0,146.87,297.74Z" fill="#ea5e6a" />
+                    <path id="top-color-6" data-name="top-color" d="M115.95,204.35c-12.13,0-22,5.43-22,12.13,0,0,0,0,0,0,0,6.68,9.85,12.08,22,12.08s21.92-5.41,22-12.08c0,0,0,0,0,0C137.91,209.78,128.07,204.35,115.95,204.35Z" fill="#ea6b6a" stroke="#fff" stroke-miterlimit="10" />
+                    <g>
+                        <g>
+                            <ellipse cx="115.93" cy="210.49" rx="11.65" ry="6.43" fill="#fff" />
+                            <polygon points="127.47 209.62 104.39 209.6 106.02 203.67 125.91 204.06 127.47 209.62" fill="#fff" />
+                        </g>
+                        <g>
+                            <path d="M124.34,207.49a4,4,0,0,0,1.61-3c0-3.05-4.48-5.53-10-5.53s-10,2.48-10,5.53a4,4,0,0,0,1.61,3c1.78-1.52,4.88-2.53,8.41-2.53S122.55,206,124.34,207.49Z" fill="#ccc" />
+                            <path d="M124.34,207.49c-1.78-1.52-4.88-2.53-8.41-2.53s-6.62,1-8.41,2.53c1.78,1.52,4.88,2.53,8.41,2.53S122.55,209,124.34,207.49Z" fill="gray" />
+                        </g>
+                    </g>
+                </g>
+                <g clip-path="url(#clip-path-6)">
+                    <g>
+                        <g>
+                            <path d="M161.59,284.94A89.9,89.9,0,0,1,6,261.46" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M150.39,288.21A89.87,89.87,0,0,1,20,287" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M140.09,289.2a89.88,89.88,0,0,1-116.45,1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M130.83,288.55A89.89,89.89,0,0,1,20.32,286.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M122.62,286.71a89.91,89.91,0,0,1-104.26-2.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M115.15,284.14a89.93,89.93,0,0,1-98.69-2.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M109,280.62a90,90,0,0,1-94.37-1.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M103.27,276.85a90,90,0,0,1-90.33-.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M98.43,272.55a90,90,0,0,1-87,.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M94.32,267.83a90,90,0,0,1-84.55,2.44" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M90.46,263a90,90,0,0,1-82.15,4.25" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M87.87,257.33a90.06,90.06,0,0,1-80.23,7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M75.8,257a90.16,90.16,0,0,1-70.07,3.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M66.16,254.87a90.27,90.27,0,0,1-61.57,2.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M58.33,251.69a90.38,90.38,0,0,1-53.91,2.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M51.86,247.91a90.46,90.46,0,0,1-49.19,2.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M46.44,243.73a90.54,90.54,0,0,1-44.54,3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M41.87,239.27a90.56,90.56,0,0,1-40.6,3.58" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M37.6,234.72a89.79,89.79,0,0,1-28.23,4.52q-4.34,0-8.57-.4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M33.44,230.12a89.77,89.77,0,0,1-28.55,4.63q-2.2,0-4.38-.1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M126.45,165.9a56,56,0,0,1-83.64,74.37" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M121.75,161.26A56,56,0,0,1,40.57,238" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M117.52,157.24A56,56,0,0,1,39,235.8" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M114.63,155.14A56,56,0,0,1,36.93,233" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M111.56,153.2a56,56,0,0,1-76.64,76.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M108.91,152.14a56,56,0,0,1-75.6,74.78" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M105.57,150.15a56,56,0,0,1-73.7,73.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M102.34,148.86a56,56,0,0,1-71.76,71.76" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M98.94,147.75a56,56,0,0,1-69.47,69.47" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M94.8,146.71a56,56,0,0,1-66.22,67.05" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M90.48,146a56.44,56.44,0,0,1,.64,8.49A56,56,0,0,1,27.88,210" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M85.93,145.59q.17,2.18.17,4.4a56,56,0,0,1-56,56q-1.35,0-2.69-.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M81.07,145.5a56,56,0,0,1-53.83,56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                        <g>
+                            <path d="M175.93,276.6a58.66,58.66,0,0,1-88.41-19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M176.92,274.86a58.66,58.66,0,0,1-83.81-18.2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M179.68,271.72a58.66,58.66,0,0,1-81-16.36" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M182.68,268.4A58.66,58.66,0,0,1,104,253.53" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M185.14,265.38a58.67,58.67,0,0,1-75.75-13.88" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M187.4,262.42a58.67,58.67,0,0,1-73.47-14.06" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M189.07,259.68a58.68,58.68,0,0,1-70.67-14.56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M190.35,257a58.7,58.7,0,0,1-67.84-15.55" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M191.74,254.11a58.71,58.71,0,0,1-65.47-16.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M192.83,251.19a58.72,58.72,0,0,1-63.16-18.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M193.75,248.16a58.74,58.74,0,0,1-61.08-20.33" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M194.58,245a58.74,58.74,0,0,1-59.27-22.74" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M194.89,242.16a58.73,58.73,0,0,1-57.74-25.45" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M195,239.2q-2.82.27-5.72.28a58.62,58.62,0,0,1-50.76-29.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M195.65,236q-1.47.07-3,.07a58.65,58.65,0,0,1-53.45-34.49" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M196.06,232.75A58.64,58.64,0,0,1,137.43,175" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M196.4,229.3a58.65,58.65,0,0,1-55.56-56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M196.4,225.67A58.67,58.67,0,0,1,144.52,174" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M196.58,221.87A58.69,58.69,0,0,1,148.37,174" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M195.19,217.52a58.74,58.74,0,0,1-42.47-42.24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M193.35,212.59a58.8,58.8,0,0,1-36-36.38" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M191.64,207.16a58.87,58.87,0,0,1-28.44-28.22" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M188.89,200.5a59,59,0,0,1-19.24-19.26" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

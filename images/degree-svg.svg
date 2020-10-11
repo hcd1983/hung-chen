@@ -1,0 +1,10 @@
+<svg id="degree-svg" width="304.51" height="304.51" viewBox="0 0 304.51 304.51">
+    <g>
+        <path id="circle-thick" d="M152.25,1.25a151,151,0,1,1-128.4,71.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+        <g id="pointer">
+            <line x1="23.85" y1="72.75" x2="152.25" y2="152.25" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+            <circle cx="152.25" cy="152.25" r="6.24" fill="#fff" />
+        </g>
+        <circle id="circle-thin" cx="152.25" cy="152.25" r="151" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+</svg>

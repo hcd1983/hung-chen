@@ -1,0 +1,157 @@
+doctype html
+html
+	head
+		include html_title.pug
+		include meta.pug
+		link(rel="stylesheet", href="stylesheets/style.css")
+		link(rel="stylesheet", href="stylesheets/svg-sprites-dims.css")
+
+		style.
+			@media print, screen and (min-width: 64em) {
+				.contact-banner-outWrap{
+					height: 74.38vh;
+				}
+			}
+
+	body
+		include ../images/all.defs.svg
+
+		- var _now = 'about'
+
+		include topmenu.pug
+
+		#barba-wrapper
+			.barba-container(data-namespace="about")
+				.contact-banner-outWrap
+					.contact-banner(style={
+						'background-image': 'url(images/about-banner.jpg)',
+					} data-parallax='{"y" : 300, "smoothness" : 0}')
+
+				section.about__company
+					.num 01
+					.title-en COMPANY PROFILE
+					//- .title-ch 宏承公司簡介
+					.content.
+						宏承實業股份有限公司自一九九三年成立，是一家專業經營針織襪類，帽子，手套及運動類頭套，護腕和手機套，襪套的生產貿易型企業。有著豐富的襪子產品製造經驗，長年承做外貿訂單，作為一個外銷績優織襪廠商，受世界各大知名品牌TARGET、KMART、WALMART……委託生產製造,行銷全世界。我公司擁有全電腦織襪機百台以上，引進先進的現代化機器設備，擁有雄厚獨立的生產作業實力，公司生產設備先進，技術實力雄厚，管理科學規範，並擁有一批優秀的員工隊伍，因此產品質量優良，已在織襪業界具有良好的口碑。公司以客戶的需求為已任，秉持“誠信，務實，發展”永續經營之理念，堅持不懈的提高產品品質，有志成為台灣最優秀織襪專業生產服務客人。本公司全體員工，本著“客戶至上，信譽第一，熱情服務，不斷創新”的經營宗旨，竭誠歡迎新老客戶的光臨垂詢。<br><br>
+						HUNG CHEN LIN Industrial Co., Ltd is a professional and experienced manufacturer for socks, hats and all kinds of knit products.<br><br>
+						The company was founded in 1993 and has been experienced in collaborating with top retail companies like Target, Kmart and Walmart and help them produce high quality knit products.<br><br>
+						We owns hundreds of various and cutting-edge machines and well-developed skills and techniques which are accumulated from 25 years of experience. Along with well-trained employees, we are able to efficiently produce high-quality products and make our clients satisfied and the whole production line cost effective.<br><br>
+						In 25 years, we have been consistently following our four missions: Customers are always our top priority, raise and maintain our reputation, always serve with passion and keep innovative. And we will be pleased and honored to work with our clients with these missions.
+
+				section.about__history
+					.banner: img(src="images/about-history-banner.jpg", alt="")
+					.grid-x.m-width
+						ul.timeline-haspic.cell.large-4.show-for-large
+							li
+								//- .year 1971
+								.pic: img(src="images/timeline-pic-1.jpg", alt="")
+								.content.
+									HUNG CHEN LIN was founded by President Mei-Lan Ye and her husband, General Manager Cheng-Zhang Lai.
+							li
+								//- .year 2013
+								.pic: img(src="images/timeline-pic-2.jpg", alt="")
+								.content.
+									The company received Golden Medal Award from Taiwan Customers Association.
+							li
+								//- .year 2015
+								.pic: img(src="images/timeline-pic-3.jpg", alt="")
+								.content.
+									In 2016, the company moved to Shetou Hosiery Industrial Park. The location is close to other hosiery businesses and associated institutions, which helps increase efficiency and provide a better work environment.
+						.ourhistory.cell.large-8
+							.num 02
+							.title-en OUR HISTORY
+							//- .title-ch 宏承公司歷程
+
+							ul.timeline-nopic
+								li.has-pic.hide-for-large
+									.pic: img(src="images/timeline-pic-1.jpg", alt="")
+									//- .year 1971
+									.content.
+										HUNG CHEN LIN was founded by President Mei-Lan Ye and her husband, General Manager Cheng-Zhang Lai.
+								li.has-pic.hide-for-large
+									.pic: img(src="images/timeline-pic-2.jpg", alt="")
+									//- .year 2013
+									.content.
+										The company received Golden Medal Award from Taiwan Customers Association.
+								li.has-pic.hide-for-large
+									.pic: img(src="images/timeline-pic-3.jpg", alt="")
+									//- .year 2015
+									.content.
+										In 2016, the company moved to Shetou Hosiery Industrial Park. The location is close to other hosiery businesses and associated institutions, which helps increase efficiency and provide a better work environment.
+								li
+									.year 1993
+									.content.
+										HUNG CHEN LIN was originally a home-based business. It was set up at the living room<br>
+										of the founder’s house in Yongjing Township, Changhua County.
+								li
+									.year 1995
+									.content.
+										To increase productions and improve the work environment,<br>
+										 the company relocated to Yuanlin Township.
+								li
+									.year 2005
+									.content.
+										The company received Golden Medal Award from Taiwan Customers Association.
+								li
+									.year 2012
+									.content.
+										The plan to expand company and build a larger factory began.
+								li
+									.year 2016
+									.content.
+										The company relocated to Shetou Hosiery Industrial Park.
+								li
+									.year 2017
+									.content.
+										 The company was certificated by Worldwide Responsible Accredited Production(WRAP).
+
+				section.about__vision
+					.banner: img(src="images/about-vision-banner.jpg", alt="")
+					.m-width
+						.vision-article
+							.num 03
+							.title-en OUR FUTURE VISION
+							//- .title-ch 未來願景
+							.content.
+								We firmly believe that we will keep providing quality products with higher efficiency and better service to meet our customer requirements. We will continue to improve our employees’skills, use the latest facilities, enhance communication of different departments and innovate various products.
+
+					ul.visionList
+						li.grid-x.align-middle
+							.pic.cell.large-shrink: img(src="images/vision-sock-1.png", alt="")
+							.container.cell.large-auto
+								.title Quality
+								.content.
+									We strive to provide the best quality products for customers.
+						li.grid-x.align-middle
+							.pic.cell.large-shrink: img(src="images/vision-sock-2.png", alt="")
+							.container.cell.large-auto
+								.title Honesty
+								.content.
+									Honesty is always our top policy. We insist on using quality materials and skilled employees to ensure the best output.
+						li.grid-x.align-middle
+							.pic.cell.large-shrink: img(src="images/vision-sock-3.png", alt="")
+							.container.cell.large-auto
+								.title Variety
+								.content.
+									We aim at offering various selection. We are willing to discuss with customers and innovate products to meet their requirements.
+
+				section.about__certificate
+					.banner: img(src="images/about-certificate-banner.jpg", alt="")
+					.certificate-article
+						.num 04
+						.title-en CERTIFICATION
+						//- .title-ch 宏承公司榮獲證書
+						.content.
+							Being certificated by authoritative institutions is important for HUNG CHEN LIN. It shows our customers that we are a trustworthy company with skills to provide products they demand.
+					.worldwide.grid-x.align-middle
+						.pic.cell.large-shrink: img(src="images/certificate.png", alt="")
+						.container.cell.large-auto
+							.title
+								svg.svg-worldwide-deco-dims: use(xlink:href="#worldwide-deco")
+								| Worldwide Responsible Accredited Production
+							.content.
+								Worldwide Responsible Accredited Production (WRAP) is an independent organization, promoting social compliance in the apparel industry, including footwear facilities. Through certification and education, WRAP ensures that the facilities follow the laws of their country and conventions of the International Labor Organization.
+
+				include footer.pug
+
+	include script.pug

@@ -1,0 +1,28 @@
+<svg width="92.69" height="107.09" viewBox="0 0 92.69 107.09">
+    <g>
+        <g>
+            <circle cx="78.41" cy="6.87" r="6.87" fill="#cbcbcb" />
+            <path d="M78.41,11.13a4.26,4.26,0,1,1,0-8.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.96" />
+        </g>
+        <g>
+            <circle cx="85.55" cy="59.15" r="7.15" transform="translate(-16.77 77.81) rotate(-45)" fill="#cbcbcb" />
+            <path d="M88.68,62.28A4.43,4.43,0,0,1,82.41,56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <g>
+            <circle cx="6.87" cy="56.87" r="6.87" transform="translate(-38.2 21.52) rotate(-45)" fill="#cbcbcb" />
+            <path d="M9.88,53.86a4.26,4.26,0,0,1-6,6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.96" />
+        </g>
+        <g>
+            <circle cx="15.33" cy="6.87" r="6.87" fill="#cbcbcb" />
+            <path d="M15.33,2.61a4.26,4.26,0,0,1,0,8.52" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.96" />
+        </g>
+        <g>
+            <circle cx="82.75" cy="99.95" r="7.15" fill="#cbcbcb" />
+            <path d="M87.18,99.95a4.43,4.43,0,0,1-8.86,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <g>
+            <circle cx="11.15" cy="99.95" r="7.15" fill="#cbcbcb" />
+            <path d="M15.58,99.95a4.43,4.43,0,1,1-8.86,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+    </g>
+</svg>

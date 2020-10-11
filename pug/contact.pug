@@ -1,0 +1,42 @@
+doctype html
+html
+	head
+		include html_title.pug
+		include meta.pug
+		link(rel="stylesheet", href="stylesheets/style.css")
+		link(rel="stylesheet", href="stylesheets/svg-sprites-dims.css")
+
+	body
+		include ../images/all.defs.svg
+
+		- var _now = 'contact'
+
+		include topmenu.pug
+
+		#barba-wrapper
+			.barba-container(data-namespace="contact")
+				.contact-banner-outWrap
+					.contact-banner(style={
+						'background-image': 'url(images/contact-banner.jpg)',
+					} data-parallax='{"y" : 300, "smoothness" : 0}')
+						.container
+							.title-en CONTACT US
+							//- .title-ch 聯絡宏承
+
+				.contact-info.m-width.grid-x
+					.map.cell.large-shrink
+						img(src="images/map.jpg", alt="")
+						.googlemap-btn
+							span: a(href="https://www.google.com.tw/maps/place/%E5%AE%8F%E6%89%BF%E5%AF%A6%E6%A5%AD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/@23.8997377,120.565753,13.42z/data=!4m8!1m2!2m1!1zNTEx5b2w5YyW57ij56S-6aCt6YSJ57mU6KWq5LiA6LevMjLomZ8!3m4!1s0x3469346b44740e7f:0x420c1c5650dffa49!8m2!3d23.901506!4d120.601759" target="_blank") Google Map
+
+					.info.cell.large-shrink.
+						宏承實業股份有限公司<br>
+						HUNG CHEN LIN Industrial Co.,Ltd.<br>
+						地址： #[a(href="https://www.google.com.tw/maps/place/%E5%AE%8F%E6%89%BF%E5%AF%A6%E6%A5%AD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/@23.8997377,120.565753,13.42z/data=!4m8!1m2!2m1!1zNTEx5b2w5YyW57ij56S-6aCt6YSJ57mU6KWq5LiA6LevMjLomZ8!3m4!1s0x3469346b44740e7f:0x420c1c5650dffa49!8m2!3d23.901506!4d120.601759" target="_blank") 511彰化縣社頭鄉織襪一路22號]<br>
+						電話號碼： #[a(href="tel:+88648720898") 04 872 0898]<br>
+						傳真： #[a(href="fax:+88648720928") 04 872 0928]<br>
+						信箱： #[a(href="mailto:george@hungchen.com.tw") george@hungchen.com.tw]
+
+				include footer.pug
+
+	include script.pug

@@ -1,0 +1,30 @@
+doctype html
+html
+	head
+		include html_title.pug
+		include meta.pug
+		link(rel="stylesheet", href="stylesheets/style.css")
+		link(rel="stylesheet", href="stylesheets/svg-sprites-dims.css")
+
+	body
+		include ../images/all.defs.svg
+
+		- var _now = 'news'
+
+		include topmenu.pug
+
+		#barba-wrapper
+			.barba-container(data-namespace="news")
+				article.newsDetaoWrap
+					.banner: img(src="images/news-pic-1.jpg", alt="")
+					.container
+						.info.flex-container.align-center-middle
+							.cat 最新訊息
+							.date 2017-07-08
+						.title 2017年臺灣製MIT微笑標章產品暨<br>機能性紡織品年終特賣會
+						.content 本公司參與工業局舉辦之2015年臺灣製MIT微笑標章產品暨機能性紡織品年終特賣會，獲得消費者高度肯定，本公司參與工業局舉辦之2015年臺灣製MIT微笑標章產品暨機能性紡織品年終特賣會，獲得消費者高度肯定，本公司參與工業局舉辦之2015年臺灣製MIT微笑標章產品暨機能性紡織品年終特賣會，獲得消費者高度肯定，本公司參與工業局舉辦之2015年臺灣製MIT微笑標章產品暨機能性紡織品年終特賣會，獲得消費者高度肯定，本公司參與工業局舉辦之2015年臺灣製MIT微笑標章產品暨機能性紡織品年終特賣會，獲得消費者高度肯定，本公司參與工業局舉辦之2015年臺灣製MIT微笑標章產品暨機能性紡織品年終特賣會，獲得消費者高度肯定。
+						.back: span(onclick="history.back()") BACK
+
+				include footer.pug
+
+	include script.pug

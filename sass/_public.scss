@@ -1,0 +1,72 @@
+@mixin mr ($marginR) {
+    margin-right: $marginR;
+    &:last-child {margin-right: 0;}
+}
+
+@mixin mb ($marginB) {
+    margin-bottom: $marginB;
+    &:last-child {margin-bottom: 0;}
+}
+
+@mixin image-2x {
+    img:nth-child(1) {display: inline;}
+    img:nth-child(2) {display: none;}
+    @media (-webkit-min-device-pixel-ratio: 2),(min-resolution: 2dppx) {
+        img:nth-child(1) {display: none;}
+        img:nth-child(2) {display: inline;}
+    }
+}
+
+@mixin all-retina-sprites($map, $map2x) {
+    @media (-webkit-min-device-pixel-ratio: 2),(min-resolution: 2dppx) {
+        $base-class: sprite-map-name($map);
+        .#{$base-class}-all-retina-sprites {
+            background-image: sprite-url($map2x);
+            @include background-size(ceil(image-width(sprite-path($map2x)) / 2) auto);
+        }
+        @each $sprite in sprite-names($map) {
+            .#{$base-class}-#{$sprite} {
+                @extend .#{$base-class}-all-retina-sprites;
+                $position: sprite-position($map2x, $sprite);
+                background-position: nth($position, 1) nth($position, 2) / 2;
+            }
+        }
+    }
+}
+
+.css_mover{
+    cursor: pointer;
+    img:nth-child(1){display:inline; }
+    img:nth-child(2){display:none; }
+    &.current img:nth-child(1){display:none; }
+    &.current img:nth-child(2){display:inline; }
+}
+.css_active , .css_mover:hover{
+    img:nth-child(1){display:none; }
+    img:nth-child(2){display:inline; }
+    &.current img:nth-child(1){display:none; }
+    &.current img:nth-child(2){display:inline; }
+}
+
+.image-2x{
+    @include image-2x;
+}
+
+
+/*
+
+        　　　  %%%%%%%%,
+    　　　　　,%%/\%%%%/\%%
+    　　　　,%%%\c　""　J/%%%
+    %.　　　%%%%/　o　o　\%%%
+    `%%.　　%%%%　　 　　|%%%
+    　`%%　　`%%%%(__Y__)%%'
+    　//　　　;%%%%`\-/%%%'
+    ((　　　　/ `%%%%%%%'
+    　\\　　.'　　　　|
+    　\\　　/　　　\　|　|
+    　　\\/　　　　)　|　|
+    　　　\　　　　/　|　|__
+    　　　(___________)))))))         public.scss end
+
+*/
