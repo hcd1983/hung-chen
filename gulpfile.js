@@ -1,4 +1,4 @@
-var gulp = require('gulp');
+var gulp = require('gulp-v3');
 var pug = require('gulp-pug');
 var sass = require('gulp-sass');
 var compass = require('gulp-compass');
@@ -42,22 +42,6 @@ gulp.task('pug', function buildHTML() {
 
 gulp.task('pug-rebuild', ['pug'], browserSync.reload);
 
-// gulp.task('sass', function() {
-//     gulp.src('sass/*.scss')
-//         .pipe(compass({
-//             config_file: './config.rb',
-//             sass: 'sass',
-//             css: 'stylesheets'
-//         }))
-//         .pipe(sourcemaps.init())
-//         .pipe(autoprefixer({
-//             browsers: ['last 2 versions', 'ie >= 9', 'and_chr >= 2.3'],
-//             cascade: false
-//         }))
-//         .pipe(sourcemaps.write('./'))
-//         .pipe(gulp.dest('stylesheets'))
-//         .pipe(browserSync.stream());
-// });
 
 gulp.task('sass', function() {
     return gulp.src('sass/*.scss')
@@ -76,23 +60,6 @@ gulp.task('sass', function() {
     .pipe(gulp.dest('stylesheets'))
     .pipe(browserSync.stream());
 });
-
-// FIXME: 待修改pug react vue等等
-// gulp.task('copy', function() {
-//     gulp.src([
-//         'css/**',
-//         'fonts/**',
-//         'images/**',
-//         'js/**',
-//         'mobile/**',
-//         'stylesheets/*.css',
-//         '*.php'
-//     ], {
-//         base: './'
-//     })
-//     .pipe(changed('public'))
-//     .pipe(gulp.dest('public'));
-// });
 
 gulp.task('svg', function() {
     return gulp.src('svg/*.svg').pipe(svgSprite({
