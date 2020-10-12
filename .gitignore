@@ -19,6 +19,5 @@ source
 .cache
 .sass-cache
 public
-dist
 .htaccess
 .idea
